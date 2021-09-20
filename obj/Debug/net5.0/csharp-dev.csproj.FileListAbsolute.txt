@@ -1,0 +1,16 @@
+C:\Users\clair\csharp-dev\bin\Debug\net5.0\csharp-dev.exe
+C:\Users\clair\csharp-dev\bin\Debug\net5.0\csharp-dev.deps.json
+C:\Users\clair\csharp-dev\bin\Debug\net5.0\csharp-dev.runtimeconfig.json
+C:\Users\clair\csharp-dev\bin\Debug\net5.0\csharp-dev.runtimeconfig.dev.json
+C:\Users\clair\csharp-dev\bin\Debug\net5.0\csharp-dev.dll
+C:\Users\clair\csharp-dev\bin\Debug\net5.0\ref\csharp-dev.dll
+C:\Users\clair\csharp-dev\bin\Debug\net5.0\csharp-dev.pdb
+C:\Users\clair\csharp-dev\obj\Debug\net5.0\csharp-dev.csproj.AssemblyReference.cache
+C:\Users\clair\csharp-dev\obj\Debug\net5.0\csharp-dev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clair\csharp-dev\obj\Debug\net5.0\csharp-dev.AssemblyInfoInputs.cache
+C:\Users\clair\csharp-dev\obj\Debug\net5.0\csharp-dev.AssemblyInfo.cs
+C:\Users\clair\csharp-dev\obj\Debug\net5.0\csharp-dev.csproj.CoreCompileInputs.cache
+C:\Users\clair\csharp-dev\obj\Debug\net5.0\csharp-dev.dll
+C:\Users\clair\csharp-dev\obj\Debug\net5.0\ref\csharp-dev.dll
+C:\Users\clair\csharp-dev\obj\Debug\net5.0\csharp-dev.pdb
+C:\Users\clair\csharp-dev\obj\Debug\net5.0\csharp-dev.genruntimeconfig.cache
